@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Shooter Arcade",
+  "description": "A fully-featured, ultra-polished, and responsive Bubble Shooter game designed for mobile and desktop, featuring handcrafted levels, endless mode, power-ups, synthesized retro sounds, and juicy physics-based particle effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
